@@ -14,7 +14,7 @@ I have always been drawn to games ever since I was a small child, when I played 
 
 	```
   
-- Wijman, T. (2018). Global Games Market Revenues 2018 | Per Region & Segment | Newzoo. [online] Newzoo. Available at: https://newzoo.com/insights/articles/global-games-market-reaches-137-9-billion-in-2018-mobile-games-take-half/ [Accessed 16 Mar. 2019]. 
+- Wijman, T. (2018). Global Games Market Revenues 2018. [online] Newzoo. Available at: https://newzoo.com/insights/articles/global-games-market-reaches-137-9-billion-in-2018-mobile-games-take-half/ [Accessed 16 Mar. 2019]. 
 
 - Takahashi, D. (2018). Newzoo: Games market expected to hit $180.1 billion in revenues in 2021. [online] VentureBeat. Available at: https://venturebeat.com/2018/04/30/newzoo-global-games-expected-to-hit-180-1-billion-in-revenues-2021/ [Accessed 16 Mar. 2019]. 
 
@@ -54,7 +54,7 @@ The use of rare power-ups and Item drops for the player provide an incentive to 
 
 Currently, the software needed for this project would be some form of Java Integrated Development Environment to program the game from the ground up. The most promising software for this is venture is called Eclipse. Eclipse is an Open-source software development kit used for Java programming. Invented in 2001 by IBM, it is still widely used and supported by a large range of software vendors and receives updates regularly. Furthermore, if this project was to be undertaken by a team of developers, an online repository such as GitHub may prove to be useful when attempting to share revisions of code chunks. 
 
-- Eclipse.org. (2019). About the Eclipse Foundation | The Eclipse Foundation. [online] Available at: https://www.eclipse.org/org/ [Accessed 16 Mar. 2019].
+- Eclipse.org. (2019). About the Eclipse Foundation. The Eclipse Foundation. [online] Available at: https://www.eclipse.org/org/ [Accessed 16 Mar. 2019].
 
 ## Skills Required:
 
