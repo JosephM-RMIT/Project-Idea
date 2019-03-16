@@ -59,3 +59,7 @@ The main skills needed for this project are skills pertaining to Java programmin
 ## Outcome:
 
 If the project turns out to be a success, it may become something that can be monetised. Depending on the reception from it’s target audience, it may even build a reputation for the developers involved – aiding in future job prospects and self development opportunities. The skills required to build a complex functioning software carry over through to all aspects of coding whether it be deep learning algorithms or developing systems with python scripts.
+
+[***Personal Information***](https://josephm-rmit.github.io/Page1/)
+
+[***Ideal jobs and Personal tests***](https://josephm-rmit.github.io/Job-interests-and-Personal-tests-/)
