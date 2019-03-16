@@ -12,11 +12,15 @@ I have always been drawn to games ever since I was a small child, when I played 
 
 ![currentgamingtrends](/Global_Games_Market_2012-2021_per_Segment-1.png)
 
+	```
+  
 - Wijman, T. (2018). Global Games Market Revenues 2018 | Per Region & Segment | Newzoo. [online] Newzoo. Available at: https://newzoo.com/insights/articles/global-games-market-reaches-137-9-billion-in-2018-mobile-games-take-half/ [Accessed 16 Mar. 2019]. 
 
 - Takahashi, D. (2018). Newzoo: Games market expected to hit $180.1 billion in revenues in 2021. [online] VentureBeat. Available at: https://venturebeat.com/2018/04/30/newzoo-global-games-expected-to-hit-180-1-billion-in-revenues-2021/ [Accessed 16 Mar. 2019]. 
 
 - Markoff, J. (1995). COMPANY NEWS; Sony Starts a Division To Sell Game Machines. [online] Nytimes.com. Available at: https://www.nytimes.com/1994/05/19/business/company-news-sony-starts-a-division-to-sell-game-machines.html?sq=video+game+industry+1995&scp=27&st=nyt [Accessed 16 Mar. 2019].
+
+	```
 
 ## Description:
 
